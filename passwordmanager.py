@@ -17,9 +17,9 @@ print()
 username=input("Enter username : ")
 password=input("Enter password : ")
 
-if username=='agrim' and password=='agrimbishnoi':
+if username=='xxx' and password=='xxx':
 
-	sudo_password = 'agrimraibishnoi8800@localhost12345'
+	sudo_password = 'xxx'
 	otp = random.randint(1000,9999)
 	print()
 	print()
